@@ -83,7 +83,6 @@
 /config.h.in
 /json_config.h
 /compile
-/config.h
 /config.log
 /config.status
 /config.sub
